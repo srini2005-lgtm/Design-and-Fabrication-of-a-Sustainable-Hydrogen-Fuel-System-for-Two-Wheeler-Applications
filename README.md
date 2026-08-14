@@ -1,2 +1,13 @@
-# Design-and-Fabrication-of-a-Sustainable-Hydrogen-Fuel-System-for-Two-Wheeler-Applications
-Future development may include IoT-based monitoring, advanced fuel management, predictive analytics, digital-twin modelling, improved hydrogen storage, compact system packaging, advanced power electronics, and integration with smart mobility infrastructure.
+#Design and Fabrication of a Sustainable Hydrogen Fuel System for Two-Wheeler Applications is a Hardware and Software project developed for the SMVEC SIH Internal Hackathon 2026. The project focuses on developing a sustainable hydrogen-powered system for two-wheelers by combining mechanical design, hydrogen energy technology, electronics, embedded systems, and software-based monitoring.
+
+The main objective of this project is to design and fabricate a compact hydrogen fuel system that can be integrated with a two-wheeler for experimental study and performance evaluation. The proposed system includes a hydrogen storage system, pressure regulator, solenoid valve, flow meter, hydrogen fuel-cell stack, DC-DC converter, electric motor, motor controller, sensors, and a microcontroller-based control unit. Hydrogen is supplied through a controlled delivery system to the fuel-cell stack, where it is converted into electrical energy for powering the electric motor.
+
+The software component provides real-time monitoring and data collection from the hardware system. Sensors are used to measure parameters such as hydrogen pressure, temperature, flow rate, voltage, current, power, and system status. A microcontroller such as ESP32 can acquire the sensor data and transfer it to a monitoring dashboard. The software can display live parameters, store experimental data, generate graphs, provide warning alerts, and support performance analysis.
+
+The project also focuses on experimental data collection and evaluation. Important parameters such as hydrogen consumption, energy efficiency, power output, operating temperature, range, system stability, and refuelling time can be studied under controlled test conditions. The collected data will help identify the advantages, limitations, and improvement areas of hydrogen-powered two-wheeler technology.
+
+Safety is an important part of the proposed system. Hydrogen storage, pressure regulation, leak detection, ventilation, emergency shut-off, temperature monitoring, and safe component selection will be considered during design and testing. Appropriate hydrogen and vehicle safety standards will also be referred to during prototype development.
+
+This project supports SDG 7 – Affordable and Clean Energy, SDG 9 – Industry, Innovation and Infrastructure, and SDG 13 – Climate Action by promoting clean energy research, sustainable transportation, engineering innovation, and low-emission mobility.
+
+Future improvements may include IoT-based monitoring, advanced hydrogen flow control, predictive analytics, digital-twin modelling, improved thermal management, compact packaging, advanced power electronics, and integration with future hydrogen refuelling infrastructure.
